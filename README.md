@@ -13,6 +13,10 @@ Matplotlib
 
 ## Results
 PyBer sees the most volume of rides in urban environments, and higher average fares in rural environments. Volume fron the urban areas is a larger total fare mover than the "higher than average" rural clients.
+![image](https://user-images.githubusercontent.com/94019661/150275665-9fbce363-07f1-4fdd-8ef3-27b96eabef30.png)
+
+![image](https://user-images.githubusercontent.com/94019661/150275672-30bd7a55-2548-4717-b4b1-9238fc941750.png)
+
 
 
 
